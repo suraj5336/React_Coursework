@@ -1,0 +1,36 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "This is my react by Suraj Kumar",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suraj5336/My-react.git"
+  },
+  "keywords": [],
+  "author": "Suraj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suraj5336/My-react/issues"
+  },
+  "homepage": "https://github.com/suraj5336/My-react#readme",
+  "devDependencies": {
+    "package": "^1.0.1",
+    "parcel": "^2.9.2",
+    "postcss": "^8.4.24",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.13.0"
+  }
+}
